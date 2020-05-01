@@ -8,5 +8,6 @@ public class SpringBootJwtAuthenticationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJwtAuthenticationApplication.class, args);
+		
 	}
 }
